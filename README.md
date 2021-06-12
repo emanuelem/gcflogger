@@ -7,7 +7,7 @@ go get -u github.com/emanuelem/gcflogger
 ```
 
 ## Sample usage
-```
+```go
 package main
 
 import (
